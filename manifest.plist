@@ -15,15 +15,15 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://github.com/JianChunyang/Documents/raw/master/BTC.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
 					<string>https://github.com/JianChunyang/Documents/raw/master/57x57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/JianChunyang/Documents/raw/master/BTC.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>BTC交易所</string>
+				<string>BTC</string>
 			</dict>
 		</dict>
 	</array>
