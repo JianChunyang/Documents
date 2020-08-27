@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://gitee.com/jianchun/document/blob/master/BTC.ipa</string>
+					<string>https://github.com/JianChunyang/Documents/raw/master/BTC.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/JianChunyang/Documents/blob/master/57x75.png</string>
+					<string>https://github.com/JianChunyang/Documents/raw/master/57x75.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
